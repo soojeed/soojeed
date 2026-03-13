@@ -30,6 +30,6 @@
 - Windows, Linux, PowerShell  
 - Figma, Canva  
 
-----
+-----
 
 ✨ I enjoy building modern web applications, backend APIs, and full systems with clean code and scalable architecture.
